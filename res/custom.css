@@ -1,0 +1,70 @@
+h1, h2, h3, h4, h5, h6 {
+	font-family: "DejaVu Sans", Arial, sans-serif;
+	text-align: center;
+}
+
+p {
+	font-family: "DejaVu Serif", Georgia, serif;
+	color: darkorchid;
+	font-size: medium;
+	text-align: left;
+}
+
+a, a:hover, a:active {
+	text-decoration: none;
+	color: inherit;
+	outline: none;
+}
+
+img {
+	width: 100%;
+}
+
+.box > .card-header {
+	background-color: purple;
+	color: white;
+}
+.box > .card-body {
+	color: green;
+}
+.box > .card-footer {
+	background-color: aliceblue;
+}
+
+.url {
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-family: "DejaVu Mono","Courier New", monospace;
+	color: darkslateblue;
+	background: bisque;
+}
+
+.pub > .title {
+	font-weight: bold;
+	text-align: left;
+}
+
+.pub > ul  p {
+	color: black;
+	font-size: 75%;
+	color: royalblue;
+}
+
+@media (min-width: 320px){
+	p,li {
+		text-align: justify;
+	}
+}
+
+@media (min-width: 480px){
+	p,li {
+		font-size: large;
+	}
+}
+
+@media (min-width: 768px){
+	p,li {
+		font-size: x-large;
+	}
+}
+

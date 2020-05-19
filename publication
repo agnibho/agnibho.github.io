@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Publications | Agnibho.com</title>
+    <link rel="icon" type="image/png" href="media/logo.png"/>
+<link rel="stylesheet" href="res/bootstrap/css/bootstrap.min.css"/>
+<link rel="stylesheet" type="text/css" href="res/custom.css">
+<script src="res/jquery.min.js"></script>
+<script src="res/bootstrap/js/bootstrap.min.js"></script>
+<meta name="description" content="Personal Website of Dr. Agnibho Mondal">
+<meta name="keywords" content="Dr, Agnibho, Mondal, Doctor">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+  </head>
+  <body>
+    <div class="container">
+      <nav class="navbar navbar-dark bg-success navbar-expand-md mb-3">
+  <a class="navbar-brand" href="https://www.agnibho.com">Agnibho.com</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarContent">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarContent">
+    <ul class="navbar-nav mr-auto">
+<li class="nav-item "><a class="nav-link" href="index.html">HOME</a></li><li class="nav-item "><a class="nav-link" href="about">ABOUT</a></li><li class="nav-item "><a class="nav-link" href="sites">SITES</a></li><li class="nav-item active"><a class="nav-link" href="publication">PUBLICATION</a></li><li class="nav-item "><a class="nav-link" href="contact">CONTACT</a></li>    </ul>
+    <ul class="navbar-nav ml-auto">
+      <li class="nav-item"><a class="nav-link" href="https://blog.agnibho.com">Blog</a></li>
+      <li class="nav-item"><a class="nav-link" href="https://code.agnibho.com">Code</a></li>
+      <li class="nav-item dropdown">
+        <a href="publication#" class="nav-link dropdown-toggle" data-toggle="dropdown">Info<span class="caret"></span></a>
+        <div class="dropdown-menu">
+          <a class="dropdown-item" href="media/agnibho_pubkey.asc">Public Key</a>
+          <a class="dropdown-item" href="media/agnibho_mondal.vcf">vCard</a>
+        </div>
+      </li>
+    </ul>
+  </div>
+</nav>
+      <p>Here is a list of my publications as well as other academic articles &mdash;</p>
+      <div class="accordion" id="publist">
+        <div class="card my-3 box">
+          <div class="card-header">
+            <a href="publication#" data-toggle="collapse" data-target="#booklist"><h1>Book</h1></a>
+          </div>
+          <div class="collapse" id="booklist" data-parent="#publist">
+            <div class="card-body">
+              <ul class="list-group">
+                <li class="list-group-item"><a href="https://blog.agnibho.com/post/covid-india-1" class="pub">  <p class="title">COVID-19 Crisis of India : A Doctor's Perspective (Book 1 : Dec'19&nbsp;-&nbsp;Apr'20)</p>  <ul class="list-group mt-2">
+<li class="list-group-item"><p>Self Published</p></li><li class="list-group-item"><p> Kolkata, April 20, 2020</p></li>  </ul>
+</a>
+</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="card my-3 box">
+          <div class="card-header">
+            <a href="publication#" data-toggle="collapse" data-target="#preprintlist"><h1>Preprint</h1></a>
+          </div>
+          <div class="collapse" id="preprintlist" data-parent="#publist">
+            <div class="card-body">
+              <ul class="list-group">
+                <li class="list-group-item"><a href="https://doi.org/10.1101/2020.05.07.20093864" class="pub">  <p class="title">Utility of Cloth Masks in Preventing Respiratory Infections: A Systematic Review</p>  <ul class="list-group mt-2">
+<li class="list-group-item"><p>Agnibho Mondal, Arnavjyoti Das and Rama Prosad Goswami</p></li><li class="list-group-item"><p> medRxiv 2020.05.07.20093864</p></li><li class="list-group-item"><p> DOI: 10.1101/2020.05.07.20093864</p></li>  </ul>
+</a>
+</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="card my-3 box">
+          <div class="card-header">
+            <a href="publication#" data-toggle="collapse" data-target="#abstractlist"><h1>Conference Abstracts</h1></a>
+          </div>
+          <div class="collapse" id="abstractlist" data-parent="#publist">
+            <div class="card-body">
+              <ul class="list-group">
+                <li class="list-group-item"><a href="https://doi.org/10.13140/RG.2.2.13378.40640" class="pub">  <p class="title">Primary Prophylaxis with Triazoles for Fungal Infections in HIV Patients with Low Absolute CD4 Count: a Meta-analysis of Randomized Controlled Trials</p>  <ul class="list-group mt-2">
+<li class="list-group-item"><p>Agnibho Mondal and Bishal Gupta</p></li><li class="list-group-item"><p> ASICON, November 23, 2019</p></li><li class="list-group-item"><p> DOI: 10.13140/RG.2.2.13378.40640</p></li>  </ul>
+</a>
+</li>
+                <li class="list-group-item"><a href="https://doi.org/10.13140/RG.2.2.24283.59689" class="pub">  <p class="title">Efficacy of a Tetravalent Dengue Vaccine &mdash; A Meta-analysis of Randomized Controlled Trials</p>  <ul class="list-group mt-2">
+<li class="list-group-item"><p>Agnibho Mondal, Bishal Gupta and Rama Prosad Goswami</p></li><li class="list-group-item"><p> Annual Conference of API WB Chapter, October 18, 2019</p></li><li class="list-group-item"><p> DOI: 10.13140/RG.2.2.24283.59689</p></li>  </ul>
+</a>
+</li>
+                <li class="list-group-item"><a href="https://doi.org/10.13140/RG.2.2.28477.90081" class="pub">  <p class="title">Crystalloid vs Colloid in Initial Management of Dengue Shock Syndrome &mdash; A Meta-analysis of Randomized Controlled Trials</p>  <ul class="list-group mt-2">
+<li class="list-group-item"><p>Agnibho Mondal and Bishal Gupta</p></li><li class="list-group-item"><p> STMIDI, CME 9, August 18, 2019</p></li><li class="list-group-item"><p> DOI: 10.13140/RG.2.2.28477.90081</p></li>  </ul>
+</a>
+</li>
+                <li class="list-group-item"><a href="https://doi.org/10.13140/RG.2.2.15056.12808" class="pub">  <p class="title">Tubercular Synovitis in an Immunocompromised Patient</p>  <ul class="list-group mt-2">
+<li class="list-group-item"><p>Agnibho Mondal, Sourav Kundu, Sitanath Mandal and Arindam Naskar</p></li><li class="list-group-item"><p> EZAPICON, November 30, 2018</p></li><li class="list-group-item"><p> DOI: 10.13140/RG.2.2.15056.12808</p></li>  </ul>
+</a>
+</li>
+                <li class="list-group-item"><a href="https://doi.org/10.13140/RG.2.2.10022.96321" class="pub">  <p class="title">Multiple opportunistic infections in HIV</p>  <ul class="list-group mt-2">
+<li class="list-group-item"><p>Agnibho Mondal, Avik Medda and Rama Prosad Goswami</p></li><li class="list-group-item"><p>ASICON, November 2, 2018</p></li><li class="list-group-item"><p> DOI: 10.13140/RG.2.2.10022.96321</p></li>  </ul>
+</a>
+</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+      <hr>
+<div class="alert alert-success">
+  <div class="row">
+    <div class="col-md">
+      <h5>Copyright &copy; 2013-2020 Dr. Agnibho Mondal</h5>
+    </div>
+    <div class="col-md">
+      <h5>E-mail: mondal@agnibho.com</h5>
+    </div>
+  </div>
+</div>
+
+<!-- Piwik -->
+<script>
+  var _paq = _paq || [];
+  // tracker methods like \"setCustomDimension\" should be called before \"trackPageView\"
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//priv.agnibho.com/analytics/";
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', '1']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<!-- End Piwik Code -->
+    </div>
+  </body>
+</html>

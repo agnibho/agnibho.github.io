@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>About | Agnibho.com</title>
+    <link rel="icon" type="image/png" href="media/logo.png"/>
+<link rel="stylesheet" href="res/bootstrap/css/bootstrap.min.css"/>
+<link rel="stylesheet" type="text/css" href="res/custom.css">
+<script src="res/jquery.min.js"></script>
+<script src="res/bootstrap/js/bootstrap.min.js"></script>
+<meta name="description" content="Personal Website of Dr. Agnibho Mondal">
+<meta name="keywords" content="Dr, Agnibho, Mondal, Doctor">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+  </head>
+  <body>
+    <div class="container">
+      <nav class="navbar navbar-dark bg-success navbar-expand-md mb-3">
+  <a class="navbar-brand" href="https://www.agnibho.com">Agnibho.com</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarContent">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarContent">
+    <ul class="navbar-nav mr-auto">
+<li class="nav-item "><a class="nav-link" href="index.html">HOME</a></li><li class="nav-item active"><a class="nav-link" href="about">ABOUT</a></li><li class="nav-item "><a class="nav-link" href="sites">SITES</a></li><li class="nav-item "><a class="nav-link" href="publication">PUBLICATION</a></li><li class="nav-item "><a class="nav-link" href="contact">CONTACT</a></li>    </ul>
+    <ul class="navbar-nav ml-auto">
+      <li class="nav-item"><a class="nav-link" href="https://blog.agnibho.com">Blog</a></li>
+      <li class="nav-item"><a class="nav-link" href="https://code.agnibho.com">Code</a></li>
+      <li class="nav-item dropdown">
+        <a href="about#" class="nav-link dropdown-toggle" data-toggle="dropdown">Info<span class="caret"></span></a>
+        <div class="dropdown-menu">
+          <a class="dropdown-item" href="media/agnibho_pubkey.asc">Public Key</a>
+          <a class="dropdown-item" href="media/agnibho_mondal.vcf">vCard</a>
+        </div>
+      </li>
+    </ul>
+  </div>
+</nav>
+      <div class="card my-3 box">
+        <div class="card-header">
+          <h1>About Me</h1>
+        </div>
+        <div class="card-body">
+          <p>I am Dr. Agnibho Mondal, a resident doctor at the School of Tropical Medicine, Kolkata and a hobbyist computer programmer.</p>
+          <p>I completed my M.B.B.S. degree from R.&nbsp;G.&nbsp;Kar Medical College and Hospital in 2017 and I am currently pursuing my Post-Graduate Training in M.D. Tropical Medicine at the School of Tropical Medicine, Kolkata.</p>
+          <p>I also used to be a self-taught hobbyist computer programmer, although at present I am mostly inactive in that field. I have a number of projects which are publicly available. I am a supporter of libre softwares and a GNU/Linux enthusiast.</p>
+          <p>I am also interested in different subjects including history, warfare, astronomy, physics, philosophy etc.</p>
+          <p>If you wish to contact me please send me an <a href="mailto:mondal@agnibho.com">e-mail</a>.</p>
+        </div>
+      </div>
+      <hr>
+<div class="alert alert-success">
+  <div class="row">
+    <div class="col-md">
+      <h5>Copyright &copy; 2013-2020 Dr. Agnibho Mondal</h5>
+    </div>
+    <div class="col-md">
+      <h5>E-mail: mondal@agnibho.com</h5>
+    </div>
+  </div>
+</div>
+
+<!-- Piwik -->
+<script>
+  var _paq = _paq || [];
+  // tracker methods like \"setCustomDimension\" should be called before \"trackPageView\"
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//priv.agnibho.com/analytics/";
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', '1']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<!-- End Piwik Code -->
+    </div>
+  </body>
+</html>

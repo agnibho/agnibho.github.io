@@ -1,0 +1,16 @@
+BEGIN:VCARD
+VERSION:4.0
+N:Agnibho;Mondal;;Dr.;
+FN:Dr. Agnibho Mondal
+GENDER:M
+KIND:individual
+LANG:bn-IN
+LANG:en-US
+PHOTO;MEDIATYPE=image/jpeg:https://www.agnibho.com/photo
+ADR;TYPE=home:;;Hasnabad;North 24 Parganas;WB;743426;India
+TZ:Asia/Kolkata
+URL:https://www.agnibho.com
+EMAIL:mondal@agnibho.com
+IMPP:xmpp:mondal@chat.agnibho.com
+KEY;MEDIATYPE=application/pgp-keys:https://www.agnibho.com/pubkey
+END:VCARD
